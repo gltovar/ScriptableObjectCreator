@@ -1,0 +1,16 @@
+{
+    "name": "ScriptableObjectCreator",
+    "references": [
+        "GUID:01dcaeb2689056c489ba2224a70fd0e9",
+        "GUID:e88cebb9a3ff09849991f61ba83134d1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
